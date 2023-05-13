@@ -1,6 +1,8 @@
 # Elmoqawelon
 template is a stunning, visually striking masterpiece that is sure to capture the attention of anyone who sees it. From its sleek and modern design to its intuitive and user-friendly interface, this template is the perfect choice for anyone looking to create a website that is both stylish and functional.
-#features
+
+# Features 
+
 One of the standout features of this template is its fully responsive design, which ensures that your website will look great on any device, from desktop computers to mobile phones. This means that you can reach a wider audience and provide a seamless user experience for all visitors to your website.
 
 The template is also incredibly customizable, with a range of color schemes, fonts, and layout options to choose from. Whether you're looking for a minimalist design or something more elaborate and eye-catching, this template has everything you need to create a website that perfectly reflects your brand and personality.

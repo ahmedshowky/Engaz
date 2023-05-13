@@ -10,3 +10,16 @@ The template is also incredibly customizable, with a range of color schemes, fon
 In addition to its stunning visuals and customization options, this HTML template is also incredibly easy to use. It comes with detailed documentation and support, making it simple for even novice website builders to get started. With its intuitive drag-and-drop interface and user-friendly backend, you can create a beautiful and functional website in no time.
 
 Overall, this HTML template is a must-have for anyone looking to create a website that is both visually stunning and highly functional. Its responsive design, customization options, and ease of use make it the perfect choice for businesses, bloggers, and creatives alike. So why wait? Get started with this template today and take your website to the next level
+
+# what i use in this template
+
+-HTML 5
+-bootstrap v5
+-CSS
+-JS
+
+# Credits
+
+all pictures in this project i'm not own it
+
+
